@@ -1,7 +1,7 @@
 # casecrossover
 SAS macro to create self control
 
-##Create case crossover data##;
+*********Create case crossover data*********;
 #in the macro, ds is requirement;
 #if your date, month and year in your dateset call date, m, year, then please just specify dataset name;
 #example: %case_crossover(inpatient);
